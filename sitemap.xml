@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+       <loc>https://yakov72.github.io/</loc>
+       <lastmod>2026-10-10T16:58:44+00:00</lastmod>
+       <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>https://yakov72.github.io/pano/</loc>
+       <lastmod>2026-10-07T20:11:46+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://yakov72.github.io/index.html</loc>
+       <lastmod>2026-10-10T16:58:44+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://yakov72.github.io/pano/tf.html?key=https://1panorama.ru/world/russia-1/arxangelskaya-oblast-173/arxangelsk-646/2024-08-12a-krasnaya-pristan-obzornaya-panorama-art-obekt-okno-v-arktiku-naberezhnaya-r-severnaya-dvina-panorama48525</loc>
+       <lastmod>2026-10-07T20:11:48+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://yakov72.github.io/pano/tf.html?key=https://1panorama.ru/world/russia-1/arxangelskaya-oblast-173/arxangelsk-646/arxangelsk-severnyj-morskoj-muzej-paratov-panorama20192</loc>
+       <lastmod>2026-10-07T20:11:48+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://yakov72.github.io/pano/index.html</loc>
+       <lastmod>2026-10-07T20:11:46+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+</urlset>
