@@ -1,0 +1,10 @@
+google-site-verification=o33PXU9QqqtjZX9pbvH0r3Ks7jUUDyCCQ9H-jwNYrx0
+
+google-site-verification=o33PXU9QqqtjZX9pbvH0r3Ks7jUUDyCCQ9H-jwNYrx0
+
+ <head>
+    <title>Your Page Title</title>
+    <meta name="google-site-verification" content="o33PXU9QqqtjZX9pbvH0r3Ks7jUUDyCCQ9H-jwNYrx0">
+  </head>
+  
+  https://yakov72.github.io/
